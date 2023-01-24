@@ -1,0 +1,123 @@
+/* @media screen and (max-width:768px) {
+    .c1{
+       position: absolute;
+       margin-top: 49px;
+       margin-left: 110px;
+    }
+    #wood{
+       width: 190px;
+       height: 58px;
+       font-weight: 900;
+       font-size: 30px;
+       line-height: 29px;
+       color: #000000;
+       
+   }
+   #see{
+       width: 55px;
+       height: 29px;
+       font-family: 'inter';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 20px;
+       text-decoration-line: underline ;
+       color: #000000;
+   }
+   #caroimg{
+       margin-top: -20px;
+       /* position: absolute; */
+       width: 100%;
+       box-shadow: 0px 4px 10px 4px;
+       border-radius: 50px;
+   }
+   #col4{
+       padding-left: 1px;
+       z-index: 20;
+       /* height: 50px; */
+   
+   
+   }
+   #df{
+       margin-top: -70px;
+       margin-left: -80px;   
+   }
+   
+   #car1{
+       width: 180px;
+       height: 228px;
+       border-radius: 10px;
+       /* margin-right: -140px; */
+   }
+   
+   #num{
+       margin-left: 30vh;
+       position: absolute;
+       margin-top: 220px;
+   }
+   #num2{
+       font-size: 7px;
+   }
+   #foot{
+       background-color: #f6f6f6;
+       height: 150px;
+       position: absolute;
+       width: 200px;
+   
+   }
+   #des{
+       margin-left: 30vh;
+       position: absolute;
+       margin-top: 200vh;   
+       margin-left: -300px;
+       width: 150px;
+   }
+   #rec{
+    margin-left: -60px;
+   }
+   #foot{
+       /* margin-top: -500px; */
+       margin-left: -200px;
+       /* width: 200px;  */
+       
+   }
+   .per{
+       font-size: 20px;
+       margin-left: -200px;
+       padding-left: 150px;
+       width: 400px;
+       
+       
+       
+   }
+   #input{
+       margin-left: -100px;
+   }
+   
+   #vec1{
+       width: 20px;
+       position: absolute;
+       margin-top: 10px;
+       margin-left:150px ;
+   }
+   #vec2{
+       width: 20px;
+       position: absolute;
+       margin-top: 10px;
+       margin-left:150px ;
+   }
+   #ta{
+       position: absolute;
+       margin-top: 120px;
+       margin-left: -5px;
+       width: 140px;
+   }
+   #ne{
+       position: absolute;
+       margin-top: 5px;
+       margin-left: 5px;
+       font-size: medium;
+   }
+   #mini{
+       display: block;
+   }
+   } */

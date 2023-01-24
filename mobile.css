@@ -1,0 +1,142 @@
+@media screen and (min-width:350px) and (max-width: 500px) {
+    .c1{
+       position: absolute;
+       margin-top: 49px;
+       margin-left: 10px;
+    }
+    #wood{
+       width: 90px;
+       height: 30px;
+       font-weight: 900;
+       font-size: 20px;
+       line-height: 15px;
+       color: #000000;
+       
+   }
+   #see{
+       width: 30px;
+       height: 15px;
+       font-family: 'inter';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 15px;
+       text-decoration-line: underline ;
+       color: #000000;
+   }
+   #caroimg{
+       margin-top: -20px;
+       /* position: absolute; */
+       width: 100%;
+       box-shadow: 0px 4px 10px 4px;
+       border-radius: 30px;
+       margin-left: 10px;
+   }
+   #col4{
+       padding-left: 1px;
+       z-index: 20;
+       /* height: 50px; */
+   
+   
+   }
+   #df{
+       margin-top: -70px;
+       margin-left: -100px;   
+   }
+   
+   #car1{
+       width: 130px;
+       height: 160px;
+       border-radius: 10px;
+       /* margin-right: -140px; */
+   }
+   
+   #num{
+       margin-left: 30vh;
+       position: absolute;
+       margin-top: 220px;
+       font-size: 10px;
+       display: none;
+   }
+   #num2{
+       font-size: 3px;
+   }
+   #foot{
+       background-color: #f6f6f6;
+       height: 150px;
+       position: absolute;
+       margin-left: -300px;
+       width: 90px; 
+       /* width: 100px; */
+   
+   }
+   #des{
+    
+       position: absolute;
+      margin-top: 100vh;
+    
+   }
+   #rec{
+    margin-left: 30px;
+   }
+
+   .per{
+       font-size: 20px;
+       margin-left: -200px;
+       padding-left: 150px;
+       width: 400px;
+       
+       
+       
+   }
+   #input{
+       margin-left: -110px;
+   }
+   
+   #vec1{
+       width: 15px;
+       position: absolute;
+       margin-top: 10px;
+       margin-left:90px ;
+   }
+   #vec2{
+       width: 15px;
+       position: absolute;
+       margin-top: 10px;
+       margin-left:90px ;
+   }
+   #ta{
+       position: absolute;
+       margin-top: 70px;
+       margin-left: -10px;
+       width: 120px;
+       height: 30px;
+       line-height: 0.5em;
+       font-size: smaller;
+   }
+   #ne{
+       position: absolute;
+       margin-top: 5px;
+       margin-left: 5px;
+       font-size: small;
+   }
+   #sb{
+       width: 200px;
+   }
+   #vector{
+    width: 120px;
+}
+#color{
+    width: 150px;
+    height: 69px;
+}
+#hr{
+    width: 100px;
+}
+#lor{
+    display: none;
+}
+#lor2{
+    display: block;
+    z-index: -5;
+}
+   }
